@@ -35,7 +35,7 @@ public class Item
     public void setId(Integer id) {
         this.id = id;
     }
-    public String getName() {
+    public String getTitle() {
         return title;
     }
     public void setTitle(String title) {
@@ -53,5 +53,7 @@ public class Item
     public void setDescr(String descr){
         this.descr = descr;
     }
+
+
 }
 

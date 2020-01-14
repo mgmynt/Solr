@@ -3,7 +3,7 @@ import org.springframework.data.annotation.Id;
 import org.springframework.data.solr.core.mapping.Indexed;
 import org.springframework.data.solr.core.mapping.SolrDocument;
 
-@SolrDocument(collection = "Item")
+@SolrDocument(collection = "Items")
 public class Item
 {
     @Id
@@ -35,7 +35,7 @@ public class Item
     public void setId(Integer id) {
         this.id = id;
     }
-    public String getName() {
+    public String getTitle() {
         return title;
     }
     public void setTitle(String title) {

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jan 14 11:24:44 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016f-a29e-5b06-000004c63dd0 
+on database directory memory:/Users/300069633/Downloads/Solr /testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
+Loaded from file:/Users/300069633/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=/Users/300069633/Downloads/Solr 
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
